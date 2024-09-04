@@ -1,7 +1,7 @@
 ---
 title: "Lab 00 - Hello Class!"
 date: " `r Sys.Date()`"
-author: "Tanzy Love"
+author: "Nino Kalandadze"
 
 output: md_document
 ---
